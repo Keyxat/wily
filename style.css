@@ -469,13 +469,13 @@ span, img{
 } 
  
 .img-about{
-    width:167px; 
+    width:600px; 
     margin-left:calc(50% - 83.5px); 
     margin-top:30px;
 } 
  
 .box-about h1{
-    width:272px; 
+    width:350px; 
     text-align:center; 
     font-size:5em; 
     color:transparent; 
@@ -755,4 +755,4 @@ span, img{
 }
  
 #content-6:target #chat{
-    display:none;} 
+    display
